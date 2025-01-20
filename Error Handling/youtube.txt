@@ -1,0 +1,1 @@
+[{"name": "Python project on airline system", "time": "2 hours"}, {"name": "JavaScript basics", "time": "6 hours"}, {"name": "Statics and probability lecture 1", "time": "45 min"}, {"name": "Book review of \"A thousand splendid suns\" by Khaled Hosseini", "time": "25 min"}, {"name": "CSS tutorial basics", "time": "23 min"}]
